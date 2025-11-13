@@ -1,1 +1,1 @@
-# consortium-model-mullti-target-quantification
+# consortium-model-multi-target-quantification
