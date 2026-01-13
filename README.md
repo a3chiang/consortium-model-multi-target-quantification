@@ -1,7 +1,7 @@
 # consortium-model-multi-target-quantification
 
 # Description
-This repository contains data and analysis scripts for the manuscript ** A diversified consortium of engineered biosensors enables multi-target quantification in complex environments **, including consortium model pipeline (i.e. preprocessing, training, validation, and benchmarking). 
+This repository contains data and analysis scripts for the manuscript **A diversified consortium of engineered biosensors enables multi-target quantification in complex environments**, including consortium model pipeline (i.e. preprocessing, training, validation, and benchmarking). 
 
 # Figures
 Scripts used to generate each main figure and corresponding supplementary figures are organized into subfolders by figure number (fig2/, fig3/, etc.).
